@@ -1,0 +1,24 @@
+
+body{
+	background-color: #43464B;
+}
+
+#header {
+	padding: 60px;
+	text-align: center;
+	font-size: 40px;
+	color: red;
+	font-family: Lucida Console, Courier, monospace;
+}
+
+#content th{
+	color: #7FFF00;
+	font-family: Times New Roman, Times, serif;
+	font-size: 25px;
+}
+
+#content td{
+	color: #FFD700;
+	font-size:17px;
+}
+
